@@ -1,0 +1,18 @@
+*{
+    color: white;
+    scroll-behavior: smooth;
+}
+.pagetitle{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    color: rgb(159, 70, 54);
+}
+.trending {
+    margin-top: 20px;
+    margin-left: 7%;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  
+}
